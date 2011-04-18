@@ -6,10 +6,6 @@
     //the code minified by UglifyJS
     optimize: "none",
 
-    paths: {
-        "jquery": "blank"
-    },
-
     modules: [
 
         {
