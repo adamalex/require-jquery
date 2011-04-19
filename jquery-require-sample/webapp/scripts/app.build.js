@@ -10,7 +10,7 @@
 
         {
             name: "main",
-			exclude: ["jquery"]
+			exclude: ["jquery", "jquery-ui"]
         }
     ]
 })
