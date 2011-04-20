@@ -2,7 +2,7 @@
 require({
     //Load jQuery before any other scripts, since jQuery plugins normally
     //assume jQuery is already loaded in the page.
-    priority: ['jquery', 'jquery-ui'],
+    priority: ['jquery'],
 	paths: {
         "jquery": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min",
 		"jquery-ui": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min"
